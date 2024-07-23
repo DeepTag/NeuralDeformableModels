@@ -1,5 +1,5 @@
 # NeuralDeformableModels
-This is the project page of the ICCV 2023 paper NeuralDeformableModels [[ICCV_2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Ye_Neural_Deformable_Models_for_3D_Bi-Ventricular_Heart_Shape_Reconstruction_and_ICCV_2023_paper.pdf)].
+This is the project page of the ICCV 2023 paper NeuralDeformableModels [[ICCV_2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Ye_Neural_Deformable_Models_for_3D_Bi-Ventricular_Heart_Shape_Reconstruction_and_ICCV_2023_paper.pdf)][[arXiv](https://arxiv.org/pdf/2307.07693)].
 
 ## Neural Deformable Models for 3D Bi-Ventricular Heart Shape Reconstruction and Modeling from 2D Sparse Cardiac Magnetic Resonance Imaging.
 We proposed a novel neural deformable model (NDM) targeting at the reconstruction and modeling of 3D bi-ventricular shape of the heart from 2D sparse cardiac magnetic resonance (CMR) imaging data.
