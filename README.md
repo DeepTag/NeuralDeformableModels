@@ -6,5 +6,5 @@ We proposed a novel neural deformable model (NDM) targeting at the reconstructio
 <div align=center><img width="820" height="340" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/NDMs.png"/></div>
 
 ## Demo
-The following video shows 3D+t left ventricle myocardium wall model reconstructed from multiplanar tagged MRI of 35 frames with our Neural Deformable Models.  
+The following video shows 3D+t left ventricle myocardium wall shape model reconstructed from multiplanar tagged MRI of 35 frames with our Neural Deformable Models.  
 <div align=center><img width="400" height="400" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/LV_myo_wall.gif"/></div>
