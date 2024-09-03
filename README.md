@@ -8,4 +8,4 @@ We proposed a novel neural deformable model (NDM) targeting at the reconstructio
 ## Demo
 The following video shows a full cardiac cycle of left ventricle myocardium wall shapes reconstructed from multiplanar [tagged-MRI](https://github.com/DeepTag/cardiac_tagging_motion_estimation) cine with our Neural Deformable Models.  
 <div align=center><img width="400" height="400" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/LV_wall_mesh.gif"/></div>
-<div align=center><img width="820" height="176.2" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Cardiac_cycle_with_shapes.png"/></div>
+<div align=center><img width="820" height="174.5" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Cardiac_cycle_with_wall_shapes.png"/></div>
