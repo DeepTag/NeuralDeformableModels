@@ -16,4 +16,5 @@ The following video shows a full cardiac cycle of left ventricle myocardium wall
 
 ## Demo 3
 The following videoes show the SAX and LAX apparent motion sequences. 
-<div align=center><img width="300" height="300" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/apparent_motion_sequence_sax_55.gif"/><img width="300" height="300" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/apparent_motion_sequence_sax.gif"/></div><img width="300" height="300" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/apparent_motion_sequence_lax.gif"/><img width="300" height="300" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/apparent_motion_sequence_lax2.gif"/></div>
+<div align=center><img width="300" height="300" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/apparent_motion_sequence_sax_55.gif"/><img width="300" height="300" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/apparent_motion_sequence_sax.gif"/></div>
+<div align=center><img width="300" height="300" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/apparent_motion_sequence_lax.gif"/><img width="300" height="300" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/apparent_motion_sequence_lax2.gif"/></div>
