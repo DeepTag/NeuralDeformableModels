@@ -13,8 +13,3 @@ The following video shows a full cardiac cycle of left ventricle myocardium wall
 ## Demo 2
 The following video shows a full cardiac cycle of left ventricle myocardium wall meshes reconstructed from multiplanar [tagged-MRI](https://github.com/DeepTag/cardiac_tagging_motion_estimation) cine with our Neural Deformable Models. Note that the twisting motion has been successfully recovered. 
 <div align=center><img width="400" height="400" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/LV_wall_dynamics_twist.gif"/></div>
-
-## Demo 3
-The following videoes show the apparent motion sequences on SAX apical/middle/basal views (looking from apex to base) and LAX 2ch/3ch/4ch views. 
-<div align=center><img width="250" height="250" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/apparent_motion_sequence_sax_55.gif"/><img width="250" height="250" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/apparent_motion_sequence_sax_80.gif"/><img width="250" height="250" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/apparent_motion_sequence_sax_100.gif"/></div>
-<div align=center><img width="250" height="250" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/apparent_motion_sequence_lax_2ch.gif"/><img width="250" height="250" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/apparent_motion_sequence_lax_3ch.gif"/><img width="250" height="250" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/apparent_motion_sequence_lax_4ch.gif"/></div>
