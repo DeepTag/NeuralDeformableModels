@@ -7,9 +7,8 @@ We proposed a novel neural deformable model (NDM) targeting at the reconstructio
 
 ## Demo 1
 The following videoes show a full cardiac cycle of left ventricle myocardium wall shapes reconstructed from a normal subject cine MRI. 
-<div align=center><img width="250" height="237.4" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/LAX/0_2.gif"/><img width="250" height="237.4" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/LAX/0_5.gif"/><img width="250" height="237.4" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/LAX/0_4.gif"/></div>
-<div align=center><img width="250" height="238.6" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/SAX/0_3.gif"/><img width="250" height="238.6" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/SAX/0_6.gif"/><img width="250" height="238.6" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/SAX/0_9.gif"/></div>
-The following video shows a full cardiac cycle of left ventricle myocardium wall shapes reconstructed from multiplanar [tagged-MRI](https://github.com/DeepTag/cardiac_tagging_motion_estimation) cine with our Neural Deformable Models.  
+<div align=center><img width="190" height="231" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/LAX/0_2.gif"/><img width="190" height="231" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/LAX/0_5.gif"/><img width="190" height="231" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/LAX/0_4.gif"/></div>
+<div align=center><img width="184" height="231" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/SAX/0_3.gif"/><img width="184" height="231" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/SAX/0_6.gif"/><img width="184" height="231" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/SAX/0_9.gif"/></div>
 <div align=center><img width="400" height="400" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/LV_wall_dynamics4_0.12.gif"/></div>
 <div align=center><img width="820" height="178.62" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/NHC008.png"/></div>
 
