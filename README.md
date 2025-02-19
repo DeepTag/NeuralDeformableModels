@@ -13,14 +13,14 @@ The following videoes show a full cardiac cycle of left ventricle myocardium wal
 
 ## Demo 2
 The following videoes show a full cardiac cycle of left ventricle myocardium wall shapes reconstructed from a diseased subject cine MRI. 
-<div align=center><img width="250" height="237.4" src="https://github.com/DeepTag/VolumetricNeuralDeformableModels/blob/main/Simulation_Example/Apparent_Lagrangian_Motion/SAX/apparent_motion_sequence_sax_7.gif"/><img width="250" height="237.4" src="https://github.com/DeepTag/VolumetricNeuralDeformableModels/blob/main/Simulation_Example/Apparent_Lagrangian_Motion/SAX/apparent_motion_sequence_sax_5.gif"/><img width="250" height="237.4" src="https://github.com/DeepTag/VolumetricNeuralDeformableModels/blob/main/Simulation_Example/Apparent_Lagrangian_Motion/SAX/apparent_motion_sequence_sax_3.gif"/></div>
-<div align=center><img width="250" height="238.6" src="https://github.com/DeepTag/VolumetricNeuralDeformableModels/blob/main/Simulation_Example/Apparent_Lagrangian_Motion/LAX/apparent_motion_sequence_lax_0.gif"/><img width="250" height="238.6" src="https://github.com/DeepTag/VolumetricNeuralDeformableModels/blob/main/Simulation_Example/Apparent_Lagrangian_Motion/LAX/apparent_motion_sequence_lax_1.gif"/><img width="250" height="238.6" src="https://github.com/DeepTag/VolumetricNeuralDeformableModels/blob/main/Simulation_Example/Apparent_Lagrangian_Motion/LAX/apparent_motion_sequence_lax_2.gif"/></div>
+<div align=center><img width="136" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/CAD/LA2_flip.gif"/><img width="136" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/CAD/LA3.gif"/><img width="136" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/CAD/LA1.gif"/><img width="131.7" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/CAD/SA2.gif"/><img width="131.7" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/CAD/SA5.gif"/><img width="131.7" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/CAD/SA8.gif"/></div>
+<div align=center><img width="200" height="200" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/CAD/LV_wall_dynamics2_0.12.gif"/></div>
 
 ## Demo 3
 The following video shows a full cardiac cycle of left ventricle myocardium wall shapes reconstructed from multiplanar [tagged-MRI](https://github.com/DeepTag/cardiac_tagging_motion_estimation) cine with our Neural Deformable Models.  
-<div align=center><img width="400" height="400" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/LV_wall_dynamics.gif"/></div>
+<div align=center><img width="200" height="200" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/LV_wall_dynamics.gif"/></div>
 <div align=center><img width="820" height="178.62" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/cardiac_cycle_LVs.png"/></div>
 
 ## Demo 4
 The following video shows a full cardiac cycle of left ventricle myocardium wall meshes reconstructed from multi-planar [tagged-MRI](https://github.com/DeepTag/cardiac_tagging_motion_estimation) cine with our Neural Deformable Models. Note that the twisting motion has been successfully recovered. 
-<div align=center><img width="400" height="400" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/LV_wall_dynamics_twist.gif"/></div>
+<div align=center><img width="200" height="200" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/LV_wall_dynamics_twist.gif"/></div>
