@@ -9,7 +9,7 @@ We proposed a novel neural deformable model (NDM) targeting at the reconstructio
 The following videoes show a full cardiac cycle of left ventricle myocardium wall shapes reconstructed from cine MRI of a normal subject . 
 <div align=center><img width="136" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/LAX/0_2.gif"/><img width="136" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/LAX/0_5.gif"/><img width="136" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/LAX/0_4.gif"/><img width="131.7" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/SAX/0_3.gif"/><img width="131.7" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/SAX/0_6.gif"/><img width="131.7" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/SAX/0_9.gif"/></div>
 <div align=center><img width="300" height="300" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/LV_wall_dynamics4_0.12.gif"/></div>
-<div align=center><img width="820" height="178.62" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/NHC008.png"/></div>
+<div align=center><img width="820" height="177.4" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/Normal/NHC008_cycle.png"/></div>
 
 ## Demo 2
 The following videoes show a full cardiac cycle of left ventricle myocardium wall shapes reconstructed from cine MRI of a diseased subject with moderate left ventricular dysfunction. 
