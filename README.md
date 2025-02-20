@@ -18,7 +18,7 @@ The following videoes show a full cardiac cycle of left ventricle myocardium wal
 
 ## Demo 3
 The following video shows a full cardiac cycle of left ventricle myocardium wall shapes reconstructed from multiplanar [tagged-MRI](https://github.com/DeepTag/cardiac_tagging_motion_estimation) cine with our Neural Deformable Models.  
-<div align=center><img width="300" height="300" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/LV_wall_dynamics.gif"/></div>
+<div align=center><img width="300" height="300" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/LV_wall_dynamics_0.12.gif"/></div>
 <div align=center><img width="820" height="178.62" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/cardiac_cycle_LVs.png"/></div>
 
 ## Demo 4
