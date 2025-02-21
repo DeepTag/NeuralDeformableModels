@@ -16,11 +16,14 @@ The following videoes show a full cardiac cycle of left ventricle myocardium wal
 <div align=center><img width="136" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/CAD/LA2_flip.gif"/><img width="136" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/CAD/LA3.gif"/><img width="136" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/CAD/LA1.gif"/><img width="131.7" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/CAD/SA2.gif"/><img width="131.7" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/CAD/SA5.gif"/><img width="131.7" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/CAD/SA8.gif"/></div>
 <div align=center><img width="300" height="300" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/CAD/LV_wall_dynamics2_0.12.gif"/></div>
 
+https://github.com/DeepTag/NeuralDeformableModels/blob/main/tagging_masks/NHC023_SAX_3.gif
+
 ## Demo 3
-The following video shows a full cardiac cycle of left ventricle myocardium wall shapes reconstructed from multiplanar [tagged-MRI](https://github.com/DeepTag/cardiac_tagging_motion_estimation) cine with our Neural Deformable Models.  
+The following video shows a full cardiac cycle of left ventricle myocardium wall shapes reconstructed from multiplanar tagged cine MRI with our Neural Deformable Models.  
+<div align=center><img width="136" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/tagging_masks/NHC023_LAX_1.gif"/><img width="136" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/tagging_masks/NHC023_LAX_5.gif"/><img width="136" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/tagging_masks/NHC023_LAX_3.gif"/><img width="131.7" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/tagging_masks/NHC023_SAX_3.gif"/><img width="131.7" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/tagging_masks/NHC023_SAX_6.gif"/><img width="131.7" height="165.35" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/tagging_masks/NHC023_SAX_10.gif"/></div>
 <div align=center><img width="300" height="300" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/LV_wall_dynamics_0.12.gif"/></div>
 <div align=center><img width="820" height="178.3" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/NHC005_cycle.png"/></div>
 
 ## Demo 4
-The following video shows a full cardiac cycle of left ventricle myocardium wall meshes reconstructed from multi-planar [tagged-MRI](https://github.com/DeepTag/cardiac_tagging_motion_estimation) cine with our Neural Deformable Models. Note that the twisting motion has been successfully recovered. 
+The following video shows a full cardiac cycle of left ventricle myocardium wall meshes reconstructed from multi-planar tagged cine MRI with our Neural Deformable Models. Note that the twisting motion has been successfully recovered. 
 <div align=center><img width="300" height="300" src="https://github.com/DeepTag/NeuralDeformableModels/blob/main/LV_wall_dynamics_twist.gif"/></div>
