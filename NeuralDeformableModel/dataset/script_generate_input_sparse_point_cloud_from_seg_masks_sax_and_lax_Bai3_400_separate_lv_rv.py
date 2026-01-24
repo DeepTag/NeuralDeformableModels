@@ -238,10 +238,10 @@ def collect_surfaces(m_pc):
 
 
 
-src_root1 = '/research/cbim/vast/my389/ailab/data/Cardiac super-resolution label maps/smoothed/'
-dst_root = '/research/cbim/vast/my389/ailab/data/Cardiac super-resolution label maps/pc3/'
+src_root1 = '/ailab/data/Cardiac super-resolution label maps/smoothed/'
+dst_root = '/ailab/data/Cardiac super-resolution label maps/pc3/'
 
-endo_root = '/research/cbim/vast/my389/ailab/data/Cardiac super-resolution label maps/Dataset/'
+endo_root = '/ailab/data/Cardiac super-resolution label maps/Dataset/'
 
 ###  number = '1004' CT LAX has a problem
 
