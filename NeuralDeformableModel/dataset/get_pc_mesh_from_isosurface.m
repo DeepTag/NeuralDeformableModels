@@ -4,7 +4,7 @@ clc
 close all
 
 
-data_path = '/research/cbim/vast/my389/ailab/data/Cardiac super-resolution label maps/smoothed/';
+data_path = '/ailab/data/Cardiac super-resolution label maps/smoothed/';
 
 file_name = ["HR_ED_MYO", "HR_ED_RV", "HR_ES_MYO", "HR_ES_RV"];
 
