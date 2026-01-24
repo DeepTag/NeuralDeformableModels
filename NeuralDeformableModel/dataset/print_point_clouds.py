@@ -3,8 +3,8 @@ import os
 import matplotlib.pyplot as plt
 
 
-src_root1 = '/research/cbim/vast/my389/ailab/data/Cardiac super-resolution label maps/pc1/225'
-dst_root = '/research/cbim/vast/my389/ailab/data/Cardiac super-resolution label maps/prints1/'
+src_root1 = '/ailab/data/Cardiac super-resolution label maps/pc1/225'
+dst_root = '/ailab/data/Cardiac super-resolution label maps/prints1/'
 
 ###  number = '1004' CT LAX has a problem
 
