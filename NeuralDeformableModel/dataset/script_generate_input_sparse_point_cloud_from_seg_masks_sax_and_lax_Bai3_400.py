@@ -178,8 +178,8 @@ def farthest_point_sample(xyz, npoint):
     return centroids
 
 
-src_root1 = '/research/cbim/vast/my389/ailab/data/Cardiac super-resolution label maps/smoothed'
-dst_root = '/research/cbim/vast/my389/ailab/data/Cardiac super-resolution label maps/pc1/'
+src_root1 = '/ailab/data/Cardiac super-resolution label maps/smoothed'
+dst_root = '/ailab/data/Cardiac super-resolution label maps/pc1/'
 
 ###  number = '1004' CT LAX has a problem
 
