@@ -47,8 +47,8 @@ def find_corner_index(line, threshold):
                 break
     return down, up
 
-src_root1 = '/research/cbim/vast/my389/ailab/data/Cardiac super-resolution label maps/smoothed/'
-dst_root = '/research/cbim/vast/my389/ailab/data/Cardiac super-resolution label maps/processed'
+src_root1 = '/ailab/data/Cardiac super-resolution label maps/smoothed/'
+dst_root = '/ailab/data/Cardiac super-resolution label maps/processed'
 
 # if not os.path.exists(dst_root): os.mkdir(dst_root)
 
